@@ -1,0 +1,48 @@
+#ImagenPersonal {
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+.titulosPrincipales {
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background-color: #091b46;
+    color: #B1c6f9;
+}
+.clasificacionDeDatos {
+    font-weight: bold;
+    font-style: italic;
+
+}
+body {
+    background-color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+header {
+    background-color: #d3d5d2;
+    background-image: url('../img/fondo\ de\ foto.png');
+}
+#listaDeDatosPersonales {
+    line-height: 23px;
+}
+.textosEnNegrita {
+    font-weight: bold;
+}
+.alinearAñoActualidad {
+    margin-left: 110px;
+}
+.alinear2años {
+    margin-left: 75px;
+}
+footer {
+    background-color: #FFFFFF;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
